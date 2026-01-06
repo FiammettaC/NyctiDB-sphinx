@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'NyctiDB docs'
-copyright = '2026, Simoneta Caño'
+copyright = '2020, Simoneta Caño'
 author = 'Simoneta Caño'
 release = '2020'
 
