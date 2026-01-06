@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Minerva: An Open-Source Library for Bioprocesses
+NyctiDB: An Open-Source Library for Bioprocesses
 =========================================================================
 
 .. image:: graphics/logo.png
    :scale: 25 %
 
-Minerva is a relational database with (i) bio-kinetic models; (ii) process and modeling information; (iii) and an expert system.
+NyctiDB is a relational database with (i) bio-kinetic models; (ii) process and modeling information; (iii) and an expert system.
 
 Key Features & Capabilities
 ---------------------------
 * **Fast and flexible.** 
-  Minerva have basic building blocks to design and simulate a bioprocess. 
+  NyctiDB have basic building blocks to design and simulate a bioprocess. 
 
 * **Understandable data.**
   The data is collected in an open standard file format, called JSON. It uses human-readable text to store and transmit data. 
@@ -71,3 +71,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+.. include:: ../README.md
